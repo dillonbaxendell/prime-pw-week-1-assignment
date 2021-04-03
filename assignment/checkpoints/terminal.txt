@@ -29,3 +29,4 @@ To see which changes have been staged or ready to commit, and which ones haven't
 it adds all of the modified files to the Index or staging area
 
 # 10 - What is the command to push your committed changes to your repo on GitHub?
+git push -u origin master
